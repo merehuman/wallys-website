@@ -1,14 +1,14 @@
 @font-face {
     font-family: 'violet_sansregular';
-    src: url('violetsans-regular-webfont.woff2') format('woff2'),
-         url('violetsans-regular-webfont.woff') format('woff');
+    src: url("css/fonts/violetsans-regular-webfont.woff2") format('woff2'),
+         url("css/fonts/violetsans-regular-webfont.woff") format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
 
 body { 
-	font-family: 'violet_sansregular;'
+	font-family: 'violet_sansregular';
 	font-weight: normal;
 	font-style: normal;
 	color: white;
